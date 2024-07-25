@@ -1,5 +1,10 @@
 # E-commerce-Sales-Analysis
 
+![image](https://github.com/user-attachments/assets/7bc36a04-4728-464e-b604-ba177d41f61d)
+
+![image](https://github.com/user-attachments/assets/218adc6e-2858-4e7c-b239-136b739f9434) ![image](https://github.com/user-attachments/assets/268bf419-97c6-4c1a-9cbe-327f0e8f9b9e)
+
+
 ## Description
 The E-commerce Sales Data Analysis Project is designed to provide in-depth insights into the sales performance of an online retail business. The project leverages a dataset containing comprehensive sales records, including information on products, customers, transactions, and geographic locations. The primary goals are to clean and preprocess the data, perform exploratory data analysis (EDA), create meaningful visualizations, and build predictive models to forecast future sales trends.
 
