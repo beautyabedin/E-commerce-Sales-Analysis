@@ -1,8 +1,7 @@
 # E-commerce-Sales-Analysis
 
-![image](https://github.com/user-attachments/assets/7bc36a04-4728-464e-b604-ba177d41f61d)
+![image](https://github.com/user-attachments/assets/6a54d161-0d44-49bc-8cd5-b2367045f5ec)
 
-![image](https://github.com/user-attachments/assets/218adc6e-2858-4e7c-b239-136b739f9434) ![image](https://github.com/user-attachments/assets/268bf419-97c6-4c1a-9cbe-327f0e8f9b9e)
 
 
 ## Description
